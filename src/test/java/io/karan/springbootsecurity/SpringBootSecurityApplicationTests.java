@@ -1,4 +1,4 @@
-package io.javabrains.springbootsecurity;
+package io.karan.springbootsecurity;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
